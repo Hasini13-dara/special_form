@@ -21,6 +21,5 @@ You can download the full project from Google Drive:
 
 [Download Special Form Project](https://drive.google.com/file/d/1m0v26Ddxl0NBmTEXEyXoV1Jnd9IQdpIy/view?usp=drivesdk)
 
-> ⚠️ Make sure you have access to the link. Update permissions if needed.
 
 ---
